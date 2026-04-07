@@ -1,3 +1,3 @@
 # Circuit Pillow (Pirate)
 
-![Sketch](https://github.com/dev-ananta/circuit-pillow/Drawing.png)
+![Sketch](https://github.com/dev-ananta/circuit-pillow/blob/main/Drawing.png)
